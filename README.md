@@ -1,4 +1,4 @@
-This is a simple implementation of DDPG in tf1 for protfolio management problem.
+This is a simple implementation of DDPG in tf1 for protfolio management.
 The S&P stock dataset is collected from Wind terminal.
 
 ## Built Environment
@@ -12,4 +12,5 @@ The S&P stock dataset is collected from Wind terminal.
 python train.py 
 ```
 
-The training result will be saved in `results\`. You can go to `test.ipynb` to visualize result.
+The training result will be saved in `results`. 
+You can go to `test.ipynb` to visualize.
